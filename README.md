@@ -5,7 +5,7 @@
 Author: Tamara Alrashed
 
 - [submission PR](https://github.com/Tamaraalrashed/api-server/pull/1)
-- [tests report](https://github.com/Tamaraalrashed/basic-express-server/actions/workflows/node.js.yml)
+- [tests report](https://github.com/Tamaraalrashed/api-server/actions/workflows/node.js.yml)
 - [Deployment](https://tamara--api-server.herokuapp.com/)
 
 ## Setup
